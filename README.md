@@ -48,6 +48,7 @@ Finally, run the project via live server or opening index.html directly in brows
 - Click 🔴 button to record your Videos.
 - Click ⚪ button to capture your photos.
 - Apply filters to your photos.
+- Use zoom-in and zoom-out buttons.
 - You can also click on the "Gallery" Button to download your photos and videos.
 
 
