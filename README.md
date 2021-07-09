@@ -1,6 +1,8 @@
 # My-Camera-app
+
 This is a camera app built by using Browser API and Document Object Model(DOM)
-[www.spreadsheet.com](https://bhardwajpriyam9.github.io/My-Camera-app/)
+
+[www.WebcamX.com](https://bhardwajpriyam9.github.io/My-Camera-app/)
 
 ## Screenshots
 
